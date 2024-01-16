@@ -6,11 +6,12 @@
 Anaconda is a Python. 
 
 ### Step 2 Create the Anaconda Environment
-```conda create --name capstone python=3.10
+```
+conda create --name capstone python=3.10
 conda activate capstone
 conda install pip
 pip install -r requirements.txt
-python -m ipykernel install --user --name acv --display-name "Python 3.10(capstone)"
+python -m ipykernel install --user --name capstone --display-name "Python 3.10(capstone)"
 ```
 
 ### Step 3 Download [Github Desktop](https://desktop.github.com)

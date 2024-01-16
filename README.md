@@ -24,6 +24,8 @@ VS Code is the recommended development environment for working with Python.
 
 Install extensions for Jupyter(Microsoft), Jupyter Notebook(Microsoft), Python(Microsoft, Pylance(Microsoft), GitHub Copilot.
 
+To use GitHub copilot you will need to sign up for the [Github Education](https://education.github.com/students)
+
 ### Step 6 Create a Simple Notebook file in the *notebooks* directory with your name (example *kuruzovich.ipynb*)
 Do some small bit of code within the notebook for example:
 
@@ -33,6 +35,9 @@ print ("Hello Capstone")
 
 ### Step 7 Commit the Push the File to GitHub
 Confirm that you can see the repository on the Github Repository. 
+
+### Step 8 If given an NDA (for some teams)
+Sign the NDA and name the file NDA_first_last.pdf and upload it into the NDA folder. 
 
 You are done! 
 

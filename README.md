@@ -2,10 +2,14 @@
 
 2024 Recommended Python 3.10
 
+### Step 0 Download [Github Desktop](https://desktop.github.com) and Clone this or your Team Repository 
+
 ### Step 1 Install [Anaconda](https://www.anaconda.com/download)
 Anaconda is a Python. 
 
 ### Step 2 Create the Anaconda Environment
+From GitHub Destop do Repository->Command Prompt (win) or Repository->Termina (mac)
+
 ```
 conda create --name capstone python=3.10
 conda activate capstone
